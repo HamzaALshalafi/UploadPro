@@ -36,6 +36,7 @@
                 <dxb:BarButtonItem x:Name="printItem" Content="Print" Glyph="{dx:DXImage 'SvgImages/Print/Print.svg'}"/>
             </dxr:RibbonStatusBarControl.RightItems>
         </dxr:RibbonStatusBarControl>
+        <Button Background="Red"> from hamza comp</Button>
        
     </DockPanel>
 </dx:ThemedWindow>
