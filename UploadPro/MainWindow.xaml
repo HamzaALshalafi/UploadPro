@@ -38,6 +38,7 @@
         </dxr:RibbonStatusBarControl>
         <Button Background="Red"> from hamza comp</Button>
         <Button Background="BlueViolet"> from hamza comp</Button>
+        <Button Background="Lavender"> from hamza comp</Button>
        
     </DockPanel>
 </dx:ThemedWindow>
